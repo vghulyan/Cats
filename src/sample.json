@@ -1,0 +1,24 @@
+{
+  "cats": [
+    {
+      "id":1,
+      "name": "Pantera",
+      "description": "The greatest cat in Europe."
+    },
+    {
+      "id":2,
+      "name": "Sfinx",
+      "description": "The bold cat Sfinx."
+    },
+    {
+      "id":3,
+      "name": "Big eye cat",
+      "description": "The Big eye cat is the best in the town."
+    },
+    {
+      "id":4,
+      "name": "The scary one",
+      "description": "The scary cat is the wildest one you can find locally."
+    }
+  ]
+}
