@@ -6,6 +6,7 @@
 
 #yarn start
 
+<img src="Animated_Gif.gif" width="400" height="600">
 <img src="Default_View.jpg" width="400" height="600">
 <img src="Edit_Delete_View.jpg" width="400" height="600">
 <img src="New_Cat_View.jpg" width="400" height="600">
